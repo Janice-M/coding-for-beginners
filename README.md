@@ -20,10 +20,15 @@ Now that you have set up your coding environment,  you need to watch as many tut
 
 Now to start up coding you need HTML to create the skeleton of the website, CSS to style your website, bootstrap to style up your website even more and javascript to help you flesh out the website and make it more interactive to the user. I suggest you start with HTML, then CSS , then Bootstrap then JavaScript .
 
+
 [HTML FOR ABSOLUTE BEGINNERS](https://youtu.be/UB1O30fR-EE)
+
 [CSS FOR ABSOLUTE BEGINNERS](https://youtu.be/yfoY53QXEnI)
+
 [Bootstrap 4 ](https://youtu.be/CMk8xB90RpU)
+
 [JAVASCRIPT FOR ABSOLUTE BEGINNERS](https://youtu.be/W6NZfCO5SIk)
+
 
 I also advise you to take more classes on [Free code camp](https://www.freecodecamp.org/) &[codecademy](https://www.codecademy.com/)  to get used to the syntax and understand the programming environment. Once you are done with these, you are no longer a beginner and you can look into other programming languages such as python , java, C# etc. Also  Javascript libraries such as ReactJS and jQuery or JavaScript frameworks such as VUE &  ANGULAR. The sea is wide and full for all so cast your net where you like. 
 
