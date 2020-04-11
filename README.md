@@ -32,7 +32,9 @@ Also join communities on twitter and meet up to stay motivated and connected to 
 Welcome to the tech life and Happy coding 
 
 Kind Regards ,
-JAN
+
+[JAN](https://twitter.com/janice_nawal)
+
 janiceink001@gmail.com
 
 
