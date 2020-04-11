@@ -35,6 +35,6 @@ Kind Regards ,
 
 [JAN](https://twitter.com/janice_nawal)
 
-janiceink001@gmail.com
+
 
 
