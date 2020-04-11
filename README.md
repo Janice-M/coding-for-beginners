@@ -2,7 +2,7 @@ Hey there,
 
 My name is  Jan and this is an amateaur guide to get you into software programming a.k.a. Coding . To start us off , here are a couple of videos to  psyche you up :
 
-[code stars] (https://youtu.be/dU1xS07N-FA)
+[code stars](https://youtu.be/dU1xS07N-FA )
 
 The art of coding
 
